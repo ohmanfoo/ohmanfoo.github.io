@@ -1,0 +1,2 @@
+#ledger
+Article: The Art of Kakeibo, the Japanese Budgeting System That Could Change Your Financial Life.md N
