@@ -1,1 +1,2 @@
 # ohmanfoo
+[TOC]
